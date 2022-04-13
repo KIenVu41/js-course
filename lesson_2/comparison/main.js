@@ -26,3 +26,21 @@ if(name_1 == name_2){
 } else {
     console.log('name_1 và name_2 không bằng nhau');
 }
+
+// Toán tử so sánh - P2
+/**
+ * ===
+ * !==
+ */
+
+var a = 1;
+var b = 1;
+
+console.log(a == b) // true
+
+var c = '1';
+console.log(a == c) // true, chỉ quan tâm value
+console.log(a === c) // false, quan tâm value và kiểu dữ liệu
+
+console.log(a != b) // false
+console.log(a !== c) // true. tương tự
