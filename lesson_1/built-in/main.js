@@ -3,7 +3,7 @@
 *Giới thiệu 1 số build-in function:
 *1. alert(): hiển thị thông báo
 *2. prompt(): hiển thị thông báo và nhập giá trị
-*3. confirm(): hiển thị thông báo và nhập giá trị
+*3. confirm(): hiển thị thông báo và xác nhận
 *4. Console: hiển thị thông tin trong console
 *5. SetTimeout(): để thực thi 1 function sau một khoảng thời gian ms
 *6. SetInterval(): để thực thi 1 function sau một khoảng thời gian ms
